@@ -1,6 +1,6 @@
 name: my_esp_component
-version: "1.0.0"
-description: "My first ESP-IDF component"
+version: "1.2.0"   # <-- Change version
+description: "My first ESP-IDF component, updated"
 url: "https://github.com/Rafsan12345/my_esp_component"
 license: "MIT"
 

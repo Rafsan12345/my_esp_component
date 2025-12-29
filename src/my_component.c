@@ -3,5 +3,5 @@
 
 void my_component_hello(void)
 {
-    printf("Hello from my component!\n");
+    printf("Hello from my component  1.2 !\n");
 }
